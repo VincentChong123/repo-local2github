@@ -5,7 +5,7 @@
 
 Hi Welcome to proj_name's documentation!
 =====================================
-This is a documentation trial
+This is a Documentation tutorial
 
 .. toctree::
    :maxdepth: 2
